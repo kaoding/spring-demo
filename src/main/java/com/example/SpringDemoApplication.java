@@ -8,7 +8,6 @@ public class SpringDemoApplication {
 
     static void main(String[] args) {
         SpringApplication.run(SpringDemoApplication.class, args);
-        System.out.println("开始运行应用程序...");
     }
 
 }
